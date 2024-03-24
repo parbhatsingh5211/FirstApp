@@ -1,3 +1,3 @@
 # Getting Started with Create React App
 
-# Auther Parbhat Singh
+# Created by Parbhat Singh
