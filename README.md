@@ -1,3 +1,2 @@
 # Getting Started with Create React App
-
-# Created by Parbhat Singh
+Click this link to visit the site  https://parbhatsingh5211.github.io/FirstApp/
